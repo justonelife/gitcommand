@@ -1,1 +1,2 @@
 # gitcommad
+git log
