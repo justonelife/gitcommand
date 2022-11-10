@@ -1,0 +1,2 @@
+feature 6 depends on feature 5 but be merged before feature 5 (note: feature 5 changed during that time)
+
