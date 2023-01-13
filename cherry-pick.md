@@ -5,4 +5,5 @@ cherrypick/peopleA
 	commit 2
 cherrypick/peopleB
 	commit 1
+  commit 2
 	commit 3
