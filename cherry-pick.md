@@ -1,6 +1,9 @@
 brach main
 	commit
-cherrypick/peopleB
+cherrypick/peopleA
 	commit 1
 	commit 2
+cherrypick/peopleB
+	commit 1
+  commit 2
 	commit 3
